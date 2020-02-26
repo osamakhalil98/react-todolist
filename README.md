@@ -6,11 +6,11 @@
   <h1>
     <i>
       Todo list, the react way
-      <i>
+      </i>
   </h1>
       </div>
-    #
     
+ 
 ## Prerequisites
 - [React.js](https://ar.reactjs.org/)
 - [Node.js](https://nodejs.org/en)
